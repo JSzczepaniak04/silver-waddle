@@ -9,4 +9,5 @@ czternascie
 pietnascie
 szesnascie
 siedemnascie
+osiemnascie
 dziewietnascie
