@@ -6,5 +6,6 @@ jedenascie
 dwaaanascie
 trzynascie
 czternascie
+pietnascie
 szesnascie
 siedemnascie
